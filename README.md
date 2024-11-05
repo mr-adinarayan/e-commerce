@@ -49,13 +49,6 @@ This project is under active development. Below is a list of features that have 
 - [ ] Unit and integration testing
 - [ ] Deployment scripts and CI/CD setup
 
-## Youtube Tutorials
-
-[![Video](https://github.com/user-attachments/assets/e03b915e-774b-4af1-86e1-f1507a3fda66)](https://youtu.be/p8tBD3YTCPo?si=URRMPcDVeAW3a5zS)
-
-## Support the Creator
-
-Your support helps in creating more content and maintaining this project. If you find this project helpful or valuable, consider buying a coffee for the creator!
 
 
 
